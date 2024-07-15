@@ -1,0 +1,19 @@
+// To inform next js, this is a client component
+"use client";
+//import "semantic-ui-css/semantic.min.css";
+//import Image from "next/image";
+
+import PersonList from "./components/PersonList";
+
+function App() {
+
+  return (
+    <div className="App">
+      Person List
+      <PersonList />
+    </div>
+  );
+}
+
+
+export default App;

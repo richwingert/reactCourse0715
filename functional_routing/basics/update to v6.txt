@@ -1,0 +1,20 @@
+/src/complete/App-5.js
+Attempted import error: 'Redirect' is not exported from 'react-router-dom'.
+console.<computed> @ index.js:1
+index.js:1 ./src/complete/App-6.js
+Attempted import error: 'Redirect' is not exported from 'react-router-dom'.
+console.<computed> @ index.js:1
+index.js:1 ./src/complete/App-7.js
+Attempted import error: 'Redirect' is not exported from 'react-router-dom'.
+console.<computed> @ index.js:1
+index.js:1 ./src/complete/App-7.js
+Attempted import error: 'Switch' is not exported from 'react-router-dom'.
+console.<computed> @ index.js:1
+index.js:1 ./src/complete/App-2.js
+Module not found: Can't resolve 'history/createBrowserHistory' in 'C:\temp\____React_2022\___New\_Lab_code\_4functional_routing\basics\src\complete'
+console.<computed> @ index.js:1
+index.js:1 ./src/complete/App-3.js
+Module not found: Can't resolve 'history/createBrowserHistory' in 'C:\temp\____React_2022\___New\_Lab_code\_4functional_routing\basics\src\complete'
+console.<computed> @ index.js:1
+index.js:1 ./src/complete/App-4.js
+Module not found: Can't resolve 'history/createBrowserHistory' in 'C:\temp\____React_2022\___New\_Lab_code\_4functional_routing\basics\src\complete'

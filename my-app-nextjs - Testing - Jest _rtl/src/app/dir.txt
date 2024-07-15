@@ -1,0 +1,18 @@
+ Volume in drive D is Data
+ Volume Serial Number is 24EE-EAAC
+
+ Directory of D:\_temp\_____JPMC REACT\StudentWork\my-app-nextjs - Testing - Jest _rtl\src\app
+
+07/02/2024  09:14 AM    <DIR>          .
+04/19/2024  08:53 PM    <DIR>          ..
+07/01/2024  02:56 PM             3,251 App.test.js
+07/02/2024  09:14 AM                 0 dir.txt
+10/26/1985  01:15 AM            25,931 favicon.ico
+10/26/1985  01:15 AM             2,206 globals.css
+04/19/2024  08:53 PM    <DIR>          images
+10/26/1985  01:15 AM               378 layout.js
+04/21/2024  04:58 AM             2,014 page.js
+04/19/2024  04:31 PM             2,765 page.js.hld
+10/26/1985  01:15 AM             3,926 page.module.css
+               8 File(s)         40,471 bytes
+               3 Dir(s)  967,608,594,432 bytes free

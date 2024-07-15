@@ -1,0 +1,17 @@
+{
+  "rules": {
+    "no-unused-vars": 0,
+    "no-shadow": 0,
+    "react/jsx-first-prop-new-line": 0,
+    "import/no-extraneous-dependencies": 0
+  },
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 2020,
+    "requireConfigFile": false,
+    "babelOptions": {
+      "presets": ["@babel/preset-react"]
+}
+  }
+  
+}

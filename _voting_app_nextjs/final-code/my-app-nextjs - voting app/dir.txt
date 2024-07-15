@@ -1,0 +1,21 @@
+ Volume in drive D is Data
+ Volume Serial Number is 24EE-EAAC
+
+ Directory of D:\_temp\_____JPMC REACT\StudentWork\_voting_app_nextjs\final-code\my-app-nextjs - voting app
+
+07/03/2024  08:01 AM    <DIR>          .
+07/03/2024  06:38 AM    <DIR>          ..
+05/02/2024  07:57 AM                56 .eslintrc.json
+10/26/1985  01:15 AM               391 .gitignore
+07/03/2024  08:01 AM    <DIR>          .next
+07/03/2024  08:01 AM                 0 dir.txt
+04/19/2024  04:31 PM                77 jsconfig.json
+05/30/2024  04:12 PM                98 next.config.mjs
+07/03/2024  06:39 AM    <DIR>          node_modules
+05/02/2024  04:11 AM           125,012 package-lock.json
+05/02/2024  04:11 AM               434 package.json
+07/03/2024  06:39 AM    <DIR>          public
+10/26/1985  01:15 AM             1,382 README.md
+07/03/2024  06:39 AM    <DIR>          src
+               8 File(s)        127,450 bytes
+               6 Dir(s)  965,418,659,840 bytes free

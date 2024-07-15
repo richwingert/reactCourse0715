@@ -1,0 +1,16 @@
+ Volume in drive D is Data
+ Volume Serial Number is 24EE-EAAC
+
+ Directory of D:\_temp\_____JPMC REACT\StudentWork\_voting_app_nextjs\final-code\my-app-nextjs - voting app\src\app
+
+07/03/2024  08:03 AM    <DIR>          .
+07/03/2024  06:39 AM    <DIR>          ..
+07/03/2024  08:03 AM                 0 dir.txt
+10/26/1985  01:15 AM            25,931 favicon.ico
+10/26/1985  01:15 AM             2,206 globals.css
+05/30/2024  06:05 AM               373 layout.js
+05/30/2024  06:08 AM             3,670 page.js
+10/26/1985  01:15 AM             3,926 page.module.css
+07/03/2024  06:39 AM    <DIR>          solutions
+               6 File(s)         36,106 bytes
+               3 Dir(s)  965,418,655,744 bytes free
